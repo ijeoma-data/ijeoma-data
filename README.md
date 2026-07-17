@@ -20,21 +20,25 @@ With a background in Biology Education and over a decade of teaching experience,
 ## 🛠️ Technical Skills
 
 ### Data Analysis
+
 - Microsoft Excel
 - Power BI
 - SQL
 - Python
 
 ### Data Preparation
+
 - Power Query
 - Pandas
 - NumPy
 
 ### Visualization
+
 - PivotCharts
 - Matplotlib
 
 ### Version Control
+
 - Git & GitHub
 
 ---
@@ -89,9 +93,6 @@ I am committed to continuous learning and building practical, portfolio-driven s
 
 ## 📫 Connect With Me
 
-- **GitHub:** https://github.com/ijeoma-data
-- **LinkedIn:** https://www.linkedin.com/in/ijeoma-okeke-53123829b
-- **Email:** ijeomaokekebiz@gmail.com
 - **GitHub:** https://github.com/ijeoma-data
 - **LinkedIn:** https://www.linkedin.com/in/ijeoma-okeke-53123829b
 - **Email:** ijeomaokekebiz@gmail.com
