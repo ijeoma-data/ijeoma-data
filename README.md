@@ -1,12 +1,13 @@
 # Hi there, I'm Ijeoma 👋
 
-## 📊 Aspiring Data Analyst
+## 📊 Data Analyst | Excel | Power BI | SQL | Python
 
-I am a Biology educator transitioning into Data Analytics with a passion for transforming data into actionable business insights. I enjoy solving real-world problems through data cleaning, visualization, dashboard development, and analytics.
+I am a Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making. I specialize in data cleaning, analysis, visualization, dashboard development, and business reporting using Excel, Power BI, SQL, and Python.
 
+With a background in Biology Education and over a decade of teaching experience, I bring strong analytical thinking, problem-solving skills, and the ability to communicate complex information clearly to diverse audiences.
 ---
 
-## 🚀 Currently Working On
+## 🚀 Current Projects
 
 - 📊 HR Analytics Dashboard (Excel)
 - 📈 HR Analytics Dashboard (Power BI)
