@@ -18,22 +18,22 @@ With a background in Biology Education and over a decade of teaching experience,
 
 ## 🛠️ Technical Skills
 
-**Data Analysis**
+### Data Analysis
 - Microsoft Excel
 - Power BI
 - SQL
 - Python
 
-**Data Preparation**
+### Data Preparation
 - Power Query
 - Pandas
 - NumPy
 
-**Visualization**
+### Visualization
 - PivotCharts
 - Matplotlib
 
-**Version Control**
+### Version Control
 - Git & GitHub
 
 ---
@@ -42,7 +42,7 @@ With a background in Biology Education and over a decade of teaching experience,
 
 - Certified Data Analyst – The Data Immersed (TDI)
 - Certified Data Analyst – Nigeria 3MTT
-- Qualified Teachers Status - TRA, UK
+- Qualified Teacher Status (QTS) – Teaching Regulation Agency (UK)
 - TEFL Certified
 
 ## 📂 Featured Projects
@@ -59,7 +59,7 @@ An end-to-end HR analytics solution developed in Microsoft Excel to analyze work
 - Dynamic Slicers
 - Business Insights & Recommendations
 
-🔗 Repository:
+🔗 **Repository:**  
 https://github.com/ijeoma-data/HR-Analytics-Dashboard-Excel
 
 ---
@@ -84,6 +84,6 @@ I am committed to continuous learning and building practical, portfolio-driven s
 
 ## 📫 Connect With Me
 
-- GitHub: [github.com/ijeoma-data](https://github.com/ijeoma-data)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ijeoma-okeke-53123829b)
-- Email: ijeomaokekebiz@gmail.com
+- **GitHub:** https://github.com/ijeoma-data
+- **LinkedIn:** https://www.linkedin.com/in/ijeoma-okeke-53123829b
+- **Email:** ijeomaokekebiz@gmail.com
