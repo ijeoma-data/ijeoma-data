@@ -18,23 +18,32 @@ With a background in Biology Education and over a decade of teaching experience,
 
 ## 🛠️ Technical Skills
 
+**Data Analysis**
 - Microsoft Excel
-- Power Query
 - Power BI
 - SQL
 - Python
+
+**Data Preparation**
+- Power Query
 - Pandas
 - NumPy
+
+**Visualization**
+- PivotCharts
 - Matplotlib
+
+**Version Control**
 - Git & GitHub
 
 ---
 
 ## 📜 Certifications
 
+- Certified Data Analyst – The Data Immersed (TDI)
+- Certified Data Analyst – Nigeria 3MTT
+- Qualified Teachers Status - TRA, UK
 - TEFL Certified
-- Certified Data Analyst (The Data Immersed)
-- Certified Data Analyst (Nigeria 3MTT)
 
 ## 📂 Featured Projects
 
@@ -53,9 +62,6 @@ An end-to-end HR analytics solution developed in Microsoft Excel to analyze work
 🔗 Repository:
 https://github.com/ijeoma-data/HR-Analytics-Dashboard-Excel
 
-Repository:
-👉 https://github.com/ijeoma-data/HR-Analytics-Dashboard-Excel
-
 ---
 
 ## 📈 Areas of Interest
@@ -73,6 +79,7 @@ Repository:
 
 To leverage data analytics, business intelligence, and machine learning to help organizations make informed, data-driven decisions and create measurable business impact.
 
+I am committed to continuous learning and building practical, portfolio-driven solutions that solve real business problems.
 ---
 
 ## 📫 Connect With Me
