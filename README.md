@@ -10,10 +10,9 @@ With a background in Biology Education and over a decade of teaching experience,
 ## 🚀 Current Projects
 
 - 📊 HR Analytics Dashboard (Excel)
-- 📈 HR Analytics Dashboard (Power BI)
-- 🗄 SQL Portfolio Projects
-- 🐍 Python Data Analysis Projects
-- 🎬 Movie Recommendation System (Machine Learning)
+- 🛍️ Istanbul Shopping Analytics Dashboard (Power BI)
+- 🗄️ SQL Analysis of the Istanbul Shopping Dataset
+- 🎬 Movie Recommendation System using Python, FastAPI & Streamlit
 
 ---
 
@@ -31,36 +30,48 @@ With a background in Biology Education and over a decade of teaching experience,
 
 ---
 
+## 📜 Certifications
+
+- TEFL Certified
+- Certified Data Analyst (The Data Immersed)
+- Certified Data Analyst (Nigeria 3MTT)
+
 ## 📂 Featured Projects
 
 ### 📊 HR Analytics Dashboard (Excel)
 
-An interactive HR dashboard built in Microsoft Excel featuring:
+An end-to-end HR analytics solution developed in Microsoft Excel to analyze workforce trends, employee turnover, recruitment effectiveness, engagement, and compensation.
+
+**Highlights**
 
 - Data Cleaning using Power Query
-- Interactive KPI Cards
+- Interactive KPI Dashboard
 - PivotTables & PivotCharts
 - Dynamic Slicers
 - Business Insights & Recommendations
+
+🔗 Repository:
+https://github.com/ijeoma-data/HR-Analytics-Dashboard-Excel
 
 Repository:
 👉 https://github.com/ijeoma-data/HR-Analytics-Dashboard-Excel
 
 ---
 
-## 🌱 Currently Learning
+## 📈 Areas of Interest
 
-- Advanced Power BI
-- DAX
+- Business Intelligence
+- HR Analytics
+- Retail Analytics
+- Data Visualization
 - Machine Learning
-- Data Storytelling
 - Predictive Analytics
 
 ---
 
 ## 🎯 Career Goal
 
-To become a Data Analyst who helps organizations make better business decisions through data-driven insights and interactive dashboards.
+To leverage data analytics, business intelligence, and machine learning to help organizations make informed, data-driven decisions and create measurable business impact.
 
 ---
 
