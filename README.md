@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi there, I'm Ijeoma 👋
 
-<!--
-**ijeoma-data/ijeoma-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am a Biology educator transitioning into Data Analytics with a passion for transforming data into actionable business insights. I enjoy solving real-world problems through data cleaning, visualization, dashboard development, and analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Working On
+
+- 📊 HR Analytics Dashboard (Excel)
+- 📈 HR Analytics Dashboard (Power BI)
+- 🗄 SQL Portfolio Projects
+- 🐍 Python Data Analysis Projects
+- 🎬 Movie Recommendation System (Machine Learning)
+
+---
+
+## 🛠️ Technical Skills
+
+- Microsoft Excel
+- Power Query
+- Power BI
+- SQL
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 📊 HR Analytics Dashboard (Excel)
+
+An interactive HR dashboard built in Microsoft Excel featuring:
+
+- Data Cleaning using Power Query
+- Interactive KPI Cards
+- PivotTables & PivotCharts
+- Dynamic Slicers
+- Business Insights & Recommendations
+
+Repository:
+👉 https://github.com/ijeoma-data/HR-Analytics-Dashboard-Excel
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Power BI
+- DAX
+- Machine Learning
+- Data Storytelling
+- Predictive Analytics
+
+---
+
+## 🎯 Career Goal
+
+To become a Data Analyst who helps organizations make better business decisions through data-driven insights and interactive dashboards.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [github.com/ijeoma-data](https://github.com/ijeoma-data)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ijeoma-okeke-53123829b)
+- Email: ijeomaokekebiz@gmail.com
