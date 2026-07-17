@@ -4,7 +4,8 @@
 
 I am a Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making. I specialize in data cleaning, analysis, visualization, dashboard development, and business reporting using Excel, Power BI, SQL, and Python.
 
-With a background in Biology Education and over a decade of teaching experience, I bring strong analytical thinking, problem-solving skills, and the ability to communicate complex information clearly to diverse audiences.
+With a background in Biology Education and over a decade of teaching experience, I bring strong analytical thinking, attention to detail, and the ability to communicate complex insights clearly to diverse audiences.
+
 ---
 
 ## 🚀 Current Projects
@@ -45,7 +46,9 @@ With a background in Biology Education and over a decade of teaching experience,
 - Qualified Teacher Status (QTS) – Teaching Regulation Agency (UK)
 - TEFL Certified
 
-## 📂 Featured Projects
+---
+
+## 📂 Featured Project
 
 ### 📊 HR Analytics Dashboard (Excel)
 
@@ -59,7 +62,8 @@ An end-to-end HR analytics solution developed in Microsoft Excel to analyze work
 - Dynamic Slicers
 - Business Insights & Recommendations
 
-🔗 **Repository:**  
+🔗 **Repository**
+
 https://github.com/ijeoma-data/HR-Analytics-Dashboard-Excel
 
 ---
@@ -80,10 +84,14 @@ https://github.com/ijeoma-data/HR-Analytics-Dashboard-Excel
 To leverage data analytics, business intelligence, and machine learning to help organizations make informed, data-driven decisions and create measurable business impact.
 
 I am committed to continuous learning and building practical, portfolio-driven solutions that solve real business problems.
+
 ---
 
 ## 📫 Connect With Me
 
+- **GitHub:** https://github.com/ijeoma-data
+- **LinkedIn:** https://www.linkedin.com/in/ijeoma-okeke-53123829b
+- **Email:** ijeomaokekebiz@gmail.com
 - **GitHub:** https://github.com/ijeoma-data
 - **LinkedIn:** https://www.linkedin.com/in/ijeoma-okeke-53123829b
 - **Email:** ijeomaokekebiz@gmail.com
