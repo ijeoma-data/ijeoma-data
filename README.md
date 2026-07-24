@@ -1,6 +1,6 @@
 # Hi there, I'm Ijeoma 👋
 
-## 📊 Data Analyst | Excel | Power BI | SQL | Python
+## 📊 Data Analyst | Business Intelligence | Machine Learning
 
 I am a Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making. I specialize in data cleaning, analysis, visualization, dashboard development, and business reporting using Excel, Power BI, SQL, and Python.
 
@@ -13,7 +13,7 @@ With a background in Biology Education and over a decade of teaching experience,
 - 📊 HR Analytics Dashboard (Excel)
 - 🛍️ Istanbul Shopping Analytics Dashboard (Power BI)
 - 🗄️ SQL Analysis of the Istanbul Shopping Dataset
-- 🎬 Movie Recommendation System using Python, FastAPI & Streamlit
+- 🎬 Movie Recommendation System (Collaborative Filtering)
 
 ---
 
@@ -25,6 +25,7 @@ With a background in Biology Education and over a decade of teaching experience,
 - Power BI
 - SQL
 - Python
+- Streamlit
 
 ### Data Preparation
 
@@ -36,6 +37,13 @@ With a background in Biology Education and over a decade of teaching experience,
 
 - PivotCharts
 - Matplotlib
+
+### Machine Learning
+
+- Collaborative Filtering (SVD)
+- Scikit-Surprise
+- Model Evaluation
+- Joblib
 
 ### Version Control
 
@@ -72,6 +80,32 @@ https://github.com/ijeoma-data/HR-Analytics-Dashboard-Excel
 
 ---
 
+## 📂 Featured Project
+
+### 🎬 Movie Recommendation System (Python • Machine Learning • Streamlit)
+
+An end-to-end machine learning recommendation system developed using **Collaborative Filtering (SVD)** on the **MovieLens Latest Small Dataset** to generate personalized movie recommendations through an interactive Streamlit web application.
+
+**Highlights**
+
+- Collaborative Filtering using SVD
+- MovieLens Dataset Analysis
+- Model Evaluation (RMSE & MAE)
+- Streamlit Web Application
+- Modular Python Project Structure
+- Git & GitHub Version Control
+- Live Cloud Deployment
+
+🔗 **Repository**
+
+https://github.com/ijeoma-data/Movie-Recommendation-System
+
+🌐 **Live Demo**
+
+https://movie-recommendation-system-ijeoma.streamlit.app/
+
+---
+
 ## 📈 Areas of Interest
 
 - Business Intelligence
@@ -85,9 +119,9 @@ https://github.com/ijeoma-data/HR-Analytics-Dashboard-Excel
 
 ## 🎯 Career Goal
 
-To leverage data analytics, business intelligence, and machine learning to help organizations make informed, data-driven decisions and create measurable business impact.
+To leverage data analytics, business intelligence, and machine learning to develop data-driven solutions that improve decision-making and solve real-world business problems.
 
-I am committed to continuous learning and building practical, portfolio-driven solutions that solve real business problems.
+I am passionate about continuous learning and enjoy building end-to-end analytical and machine learning projects—from data preparation and visualization to model development and deployment.
 
 ---
 
@@ -95,4 +129,7 @@ I am committed to continuous learning and building practical, portfolio-driven s
 
 - **GitHub:** https://github.com/ijeoma-data
 - **LinkedIn:** https://www.linkedin.com/in/ijeoma-okeke-53123829b
+- **Portfolio App:** https://movie-recommendation-system-ijeoma.streamlit.app/
 - **Email:** ijeomaokekebiz@gmail.com
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ijeoma-data&show_icons=true)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ijeoma-data&layout=compact)
