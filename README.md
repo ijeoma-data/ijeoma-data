@@ -1,6 +1,7 @@
 # Hi there, I'm Ijeoma 👋
 
 ## 📊 Data Analyst | Business Intelligence | Machine Learning
+Passionate about transforming data into actionable insights through analytics, visualization, and machine learning solutions.
 
 I am a Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making. I specialize in data cleaning, analysis, visualization, dashboard development, and business reporting using Excel, Power BI, SQL, and Python.
 
