@@ -1,7 +1,19 @@
 # Hi there, I'm Ijeoma 👋
 
 ## 📊 Data Analyst | Business Intelligence | Machine Learning
-Passionate about transforming data into actionable insights through analytics, visualization, and machine learning solutions.
+
+*Passionate about transforming data into actionable insights through analytics, visualization, and machine learning solutions.*
+
+I am a Data Analyst specializing in data cleaning, analysis, visualization, dashboard development, and business reporting using Excel, Power BI, SQL, and Python.
+
+With a background in Biology Education and over a decade of teaching experience, I bring strong analytical thinking, attention to detail, and the ability to communicate complex insights clearly to diverse audiences.
+
+I am a Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making. I specialize in data cleaning, analysis, visualization, dashboard development, and business reporting using Excel, Power BI, SQL, and Python.
+
+With a background in Biology Education and over a decade of teaching experience, I bring strong analytical thinking, attention to detail, and the ability to communicate complex insights clearly to diverse audiences.
+I am a Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making. I specialize in data cleaning, analysis, visualization, dashboard development, and business reporting using Excel, Power BI, SQL, and Python.
+
+With a background in Biology Education and over a decade of teaching experience, I bring strong analytical thinking, attention to detail, and the ability to communicate complex insights clearly to diverse audiences.
 
 I am a Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making. I specialize in data cleaning, analysis, visualization, dashboard development, and business reporting using Excel, Power BI, SQL, and Python.
 
@@ -42,9 +54,10 @@ With a background in Biology Education and over a decade of teaching experience,
 ### Machine Learning
 
 - Collaborative Filtering (SVD)
+- Recommendation Systems
 - Scikit-Surprise
-- Model Evaluation
-- Joblib
+- Model Evaluation (RMSE & MAE)
+- Model Persistence (Joblib)
 
 ### Version Control
 
@@ -83,7 +96,7 @@ https://github.com/ijeoma-data/HR-Analytics-Dashboard-Excel
 
 ## 📂 Featured Project
 
-### 🎬 Movie Recommendation System (Python • Machine Learning • Streamlit)
+🎬 Movie Recommendation System (Collaborative Filtering • Streamlit)
 
 An end-to-end machine learning recommendation system developed using **Collaborative Filtering (SVD)** on the **MovieLens Latest Small Dataset** to generate personalized movie recommendations through an interactive Streamlit web application.
 
@@ -132,5 +145,10 @@ I am passionate about continuous learning and enjoy building end-to-end analytic
 - **LinkedIn:** https://www.linkedin.com/in/ijeoma-okeke-53123829b
 - **Portfolio App:** https://movie-recommendation-system-ijeoma.streamlit.app/
 - **Email:** ijeomaokekebiz@gmail.com
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ijeoma-data&show_icons=true)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ijeoma-data&layout=compact)
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](...)
+
+![Top Languages](...)
