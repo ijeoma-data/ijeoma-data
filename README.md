@@ -69,6 +69,7 @@ With a background in Biology Education and over a decade of teaching experience,
 
 - Certified Data Analyst – The Data Immersed (TDI)
 - Certified Data Analyst – Nigeria 3MTT
+- Teacher's Registration Council Of Nigerian (TRCN) 
 - Qualified Teacher Status (QTS) – Teaching Regulation Agency (UK)
 - TEFL Certified
 
