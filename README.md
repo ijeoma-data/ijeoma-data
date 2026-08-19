@@ -4,22 +4,12 @@
 
 *Passionate about transforming data into actionable insights through analytics, visualization, and machine learning solutions.*
 
-I am a Data Analyst specializing in data cleaning, analysis, visualization, dashboard development, and business reporting using Excel, Power BI, SQL, and Python.
+I am a Data Analyst with a background in Biology Education and over 12 years of experience turning complexity into clarity. Today, I apply that same problem-solving mindset to data—transforming raw information into meaningful insights that support informed decision-making.
 
-With a background in Biology Education and over a decade of teaching experience, I bring strong analytical thinking, attention to detail, and the ability to communicate complex insights clearly to diverse audiences.
+I specialize in data cleaning, analysis, visualization, dashboard development, business reporting, and machine learning, using Excel, Power BI, SQL, and Python to build practical, end-to-end solutions.
 
-I am a Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making. I specialize in data cleaning, analysis, visualization, dashboard development, and business reporting using Excel, Power BI, SQL, and Python.
+My portfolio includes projects ranging from interactive business dashboards to recommendation systems, reflecting my growing expertise in analytics and machine learning.
 
-With a background in Biology Education and over a decade of teaching experience, I bring strong analytical thinking, attention to detail, and the ability to communicate complex insights clearly to diverse audiences.
-I am a Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making. I specialize in data cleaning, analysis, visualization, dashboard development, and business reporting using Excel, Power BI, SQL, and Python.
-
-With a background in Biology Education and over a decade of teaching experience, I bring strong analytical thinking, attention to detail, and the ability to communicate complex insights clearly to diverse audiences.
-
-I am a Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making. I specialize in data cleaning, analysis, visualization, dashboard development, and business reporting using Excel, Power BI, SQL, and Python.
-
-With a background in Biology Education and over a decade of teaching experience, I bring strong analytical thinking, attention to detail, and the ability to communicate complex insights clearly to diverse audiences.
-
----
 
 ## 🚀 Current Projects
 
