@@ -10,13 +10,89 @@ I specialize in data cleaning, analysis, visualization, dashboard development, b
 
 My portfolio includes projects ranging from interactive business dashboards to recommendation systems, reflecting my growing expertise in analytics and machine learning.
 
+---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-- 📊 HR Analytics Dashboard (Excel)
-- 🛍️ Istanbul Shopping Analytics Dashboard (Power BI)
-- 🗄️ SQL Analysis of the Istanbul Shopping Dataset
-- 🎬 Movie Recommendation System (Collaborative Filtering)
+### 📊 HR Analytics Dashboard — Excel
+
+An interactive HR analytics solution developed in Microsoft Excel to analyze workforce trends, employee turnover, recruitment effectiveness, engagement, and compensation.
+
+**Highlights**
+
+- Data cleaning using Power Query
+- Interactive KPI dashboard
+- PivotTables and PivotCharts
+- Dynamic slicers
+- Workforce and HR insights
+- Business recommendations
+
+🔗 **Repository:**  
+https://github.com/ijeoma-data/HR-Analytics-Dashboard-Excel
+
+---
+
+### 🛍️ Istanbul Shopping Analytics Dashboard — Power BI
+
+An interactive retail analytics project developed in Power BI to explore customer purchasing behavior, sales patterns, product performance, and shopping trends using the Istanbul Shopping Dataset.
+
+**Highlights**
+
+- Data cleaning and transformation using Power Query
+- Data modeling in Power BI
+- Interactive dashboard development
+- DAX-based calculations
+- Customer and sales analysis
+- Business insights and visual storytelling
+
+🔗 **Repository:**  
+https://github.com/ijeoma-data/Istanbul-Shopping-Analytics
+
+---
+
+### 🏥 Hypertension Control & Treatment Effectiveness Analysis — Excel
+
+A healthcare analytics project analyzing patient-level hypertension data to investigate factors associated with blood pressure treatment outcomes.
+
+The project uses Excel to transform clinical data into an interactive analytical dashboard and generate insights that can support healthcare decision-making.
+
+**Highlights**
+
+- Data cleaning and preparation
+- PivotTables and PivotCharts
+- Interactive dashboard
+- KPI development
+- Analysis of treatment outcomes
+- Slicer-driven exploration
+- Healthcare insights and recommendations
+
+🔗 **Repository:**  
+https://github.com/ijeoma-data/Hypertension-Control-Treatment-Effectiveness-Analysis
+
+---
+
+### 🎬 Movie Recommendation System — Collaborative Filtering & Streamlit
+
+An end-to-end machine learning recommendation system developed using **Collaborative Filtering (SVD)** on the **MovieLens Latest Small Dataset** to generate personalized movie recommendations through an interactive Streamlit web application.
+
+**Highlights**
+
+- Collaborative Filtering using SVD
+- MovieLens dataset analysis
+- User-item interaction modeling
+- Model evaluation using RMSE and MAE
+- Personalized movie recommendations
+- Streamlit web application
+- Modular Python project structure
+- Git and GitHub version control
+- Live cloud deployment
+
+🔗 **Repository:**  
+https://github.com/ijeoma-data/Movie-Recommendation-System
+
+🌐 **Live Demo:**  
+https://movie-recommendation-system-ijeoma.streamlit.app/
+---
 
 ---
 
@@ -65,51 +141,6 @@ My portfolio includes projects ranging from interactive business dashboards to r
 
 ---
 
-## 📂 Featured Project
-
-### 📊 HR Analytics Dashboard (Excel)
-
-An end-to-end HR analytics solution developed in Microsoft Excel to analyze workforce trends, employee turnover, recruitment effectiveness, engagement, and compensation.
-
-**Highlights**
-
-- Data Cleaning using Power Query
-- Interactive KPI Dashboard
-- PivotTables & PivotCharts
-- Dynamic Slicers
-- Business Insights & Recommendations
-
-🔗 **Repository**
-
-https://github.com/ijeoma-data/HR-Analytics-Dashboard-Excel
-
----
-
-## 📂 Featured Project
-
-🎬 Movie Recommendation System (Collaborative Filtering • Streamlit)
-
-An end-to-end machine learning recommendation system developed using **Collaborative Filtering (SVD)** on the **MovieLens Latest Small Dataset** to generate personalized movie recommendations through an interactive Streamlit web application.
-
-**Highlights**
-
-- Collaborative Filtering using SVD
-- MovieLens Dataset Analysis
-- Model Evaluation (RMSE & MAE)
-- Streamlit Web Application
-- Modular Python Project Structure
-- Git & GitHub Version Control
-- Live Cloud Deployment
-
-🔗 **Repository**
-
-https://github.com/ijeoma-data/Movie-Recommendation-System
-
-🌐 **Live Demo**
-
-https://movie-recommendation-system-ijeoma.streamlit.app/
-
----
 
 ## 📈 Areas of Interest
 
